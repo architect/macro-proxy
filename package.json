@@ -1,0 +1,8 @@
+{
+  "name": "arc-macro-proxy",
+  "version": "1.0.0",
+  "description": "Change the default route handler to utilize API Gateway's HTTP proxy.",
+  "main": "src/macros/proxy.js",
+  "author": "Brian LeRoux <b@brian.io>",
+  "license": "Apache-2.0"
+}
